@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:57ffe3,100:02e8e4&height=120&text=SO%20JEONG&animation=twinkling&fontColor=235344&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:57ffe3,100:02e8e4&height=120&text=SO%20JEONG&animation=twinkling&fontColor=f0f4f3&fontSize=50" />
     </div>
     <div align= "center"> 
         <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> FE 개발자 이소정입니다. </h2>  
