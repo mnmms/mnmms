@@ -18,7 +18,7 @@ Here are some ideas to get you started:
     </div>
     <div align= "center"> 
         <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> FE 개발자 이소정입니다. </h2>  
-        <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 제품의 완성도를 높이기 위해 문제의 본질과 사용자 경험에 대한 고민을 바탕으로 나만의 기준과 철학을 코드에 녹여내는 것을 좋아합니다. </div> 
+        <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 문제의 본질과 사용자 경험을 기준으로, <br/> 나만의 철학을 코드와 설계에 녹여내는 개발을 지향합니다. </div> 
         </div>
         <div align= "center">
         <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
