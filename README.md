@@ -38,8 +38,7 @@ Here are some ideas to get you started:
 <div align="center">
 <h2>🛠️ Tech Stack</h2>
 
-<b>🖥️ Frontend</b>&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;<b>🤖 AI & Data</b>&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;<b>☁️ Others</b>
-<br/>
+<h3>🖥️ Frontend</b>&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;<b>🤖 AI & Data</b>&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;<b>☁️ Others</h3>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
