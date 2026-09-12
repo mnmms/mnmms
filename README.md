@@ -32,44 +32,25 @@ Here are some ideas to get you started:
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">• FE와 AI·ML 기술을 접목할 수 있는 서비스를 구상하고 있습니다.</div>
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">• 여러 서비스로 만들어보며 경험을 쌓고 있습니다.</div>
 </div>
+
 <br/>
 
 <div align="center">
-    <h2>🛠️ Tech Stack</h2>
-    <table>
-        <tr>
-            <td width="34%" valign="top" align="center">
+<h2>🛠️ Tech Stack</h2>
 
-### 🖥️ Frontend
-
+<b>🖥️ Frontend</b>&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;<b>🤖 AI & Data</b>&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;<b>☁️ Others</b>
+<br/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white">
-<br/>
-<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white">
-<img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white">
-<br/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
-            </td>
-            <td width="33%" valign="top" align="center">
-
-### 🤖 AI & Data
-
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
-<br/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
-            </td>
-            <td width="33%" valign="top" align="center">
-
-### ☁️ Tools & Infrastructure
-
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
-<br/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white">
+<img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
 <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white">
-            </td>
-        </tr>
-    </table>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
 </div>
 
 <div align="center">
