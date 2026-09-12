@@ -17,9 +17,22 @@ Here are some ideas to get you started:
     <!-- <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:57ffe3,100:02e8e4&height=120&text=SO%20JEONG&animation=twinkling&fontColor=f0f4f3&fontSize=50" /> -->
 </div>
 <div align= "center"> 
-    <!-- <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> FE 개발자 이소정입니다. </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 문제의 본질과 사용자 경험을 기준으로, <br/> 나만의 철학을 코드와 설계에 녹여내는 개발을 지향합니다. </div>  -->
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bagel+Fat+One&size=40&duration=1200&pause=200&color=F75160&background=1AFFAC&center=true&vCenter=true&multiline=true&repeat=false&width=1080&height=180&lines=Building+things+that+matter.;Turning+ideas+into+reality.;Always+learning%2C+always+building." alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Bagel+Fat+One&size=40&duration=1200&pause=200&color=F75160&background=1AFFAC&center=true&vCenter=true&multiline=true&repeat=false&width=1080&height=180&lines=Building+things+that+matter.;Turning+ideas+into+reality.;Always+learning%2C+always+building." alt="Typing SVG" />
+    </a>
+</div>
+<div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 About Me </h2>
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  
+    아이디어를 코드로 옮기고, 실제로 사용할 수 있는 서비스로 만드는 것을 좋아합니다. <br/>
+    프론트엔드를 기반으로 AI/ML을 공부하며 새로운 가능성을 탐색하고 있습니다.
+    </div>
+</div>
+<div align="center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🌱 Currently </h2>
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">• Python과 PyTorch를 공부하고 있습니다.</div>
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">• Applied AI / AI·ML 분야를 탐색하고 있습니다.</div>
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">• 배운 것을 서비스로 만들어보며 경험을 쌓고 있습니다.</div>
 </div>
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -47,12 +60,6 @@ Here are some ideas to get you started:
              <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:esomnmm@gmail.com">
          </a>
      </div>
-     <br/>
-     <!-- <div align= "center">
-         <a href="https://hits.seeyoufarm.com">
-             <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmnmms%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/>
-         </a>
-     </div> -->
 </div>
 
     
