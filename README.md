@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <div align= "center"> 
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Bagel+Fat+One&size=40&duration=1200&pause=200&color=F75160&background=1AFFAC&center=true&vCenter=true&multiline=true&repeat=false&width=1080&height=130&lines=Building+things+that+matter.;Turning+ideas+into+reality." alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Bagel+Fat+One&size=40&duration=1200&pause=200&color=F75160&background=1AFFAC&center=true&vCenter=true&multiline=true&repeat=false&width=1080&height=180&lines=Building+things+that+matter.;Turning+ideas+into+reality.;Always+learning%2C+always+building." alt="Typing SVG" />
     </a>
 </div>
 
@@ -71,6 +71,6 @@ Here are some ideas to get you started:
 <br/>
 <div align= "center"> 
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Bagel+Fat+One&size=40&duration=1200&pause=200&color=F75160&background=1AFFAC&center=true&vCenter=true&multiline=true&repeat=false&width=1080&height=80&lines=Always+learning%2C+always+building." alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=10&pause=0&color=F75160&background=1AFFAC&center=true&vCenter=true&repeat=false&width=1080&height=60&lines=+" alt="Typing SVG" />
     </a>
 </div>
