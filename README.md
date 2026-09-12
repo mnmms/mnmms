@@ -15,15 +15,23 @@ Here are some ideas to get you started:
 
 <div align= "center"> 
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Bagel+Fat+One&size=40&duration=1200&pause=200&color=F75160&background=1AFFAC&center=true&vCenter=true&multiline=true&repeat=false&width=1080&height=180&lines=Building+things+that+matter.;Turning+ideas+into+reality.;Always+learning%2C+always+building." alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Bagel+Fat+One&size=40&duration=1200&pause=200&color=F75160&background=1AFFAC&center=true&vCenter=true&multiline=true&repeat=false&width=1080&height=130&lines=Building+things+that+matter.;Turning+ideas+into+reality." alt="Typing SVG" />
     </a>
 </div>
 
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 About Me </h2>
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  
-    아이디어를 코드로 옮기고, 실제로 사용할 수 있는 서비스로 만드는 것을 좋아합니다. <br/>
-    프론트엔드를 기반으로 AI/ML을 공부하며 새로운 가능성을 탐색하고 있습니다.
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
+        이소정 (Frontend / AI Engineer)
+        <br/>
+        <sub>
+            시각디자인 · 컴퓨터공학 전공
+        </sub>
+        <br/>
+        -
+        <br/>
+        아이디어를 코드로 옮기고, 실제로 사용할 수 있는 서비스로 만드는 것을 좋아합니다. <br/>
+        프론트엔드를 기반으로 AI/ML을 공부하며 새로운 가능성을 탐색하고 있습니다.
     </div>
 </div>
 <br/>
@@ -63,6 +71,6 @@ Here are some ideas to get you started:
 <br/>
 <div align= "center"> 
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Bagel+Fat+One&size=40&duration=1200&pause=200&color=F75160&background=1AFFAC&center=true&vCenter=true&multiline=true&repeat=false&width=1080&height=80&lines=+++++++++++++++++++++++++++;" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Bagel+Fat+One&size=40&duration=1200&pause=200&color=F75160&background=1AFFAC&center=true&vCenter=true&multiline=true&repeat=false&width=1080&height=80&lines=Always+learning%2C+always+building." alt="Typing SVG" />
     </a>
 </div>
