@@ -17,10 +17,11 @@ Here are some ideas to get you started:
     <!-- <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:57ffe3,100:02e8e4&height=120&text=SO%20JEONG&animation=twinkling&fontColor=f0f4f3&fontSize=50" /> -->
 </div>
 <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> FE 개발자 이소정입니다. </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 문제의 본질과 사용자 경험을 기준으로, <br/> 나만의 철학을 코드와 설계에 녹여내는 개발을 지향합니다. </div> 
-    </div>
-    <div align= "center">
+    <!-- <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> FE 개발자 이소정입니다. </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 문제의 본질과 사용자 경험을 기준으로, <br/> 나만의 철학을 코드와 설계에 녹여내는 개발을 지향합니다. </div>  -->
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bagel+Fat+One&size=40&duration=800&pause=300&color=F75160&background=1AFFAC&center=true&vCenter=true&multiline=true&repeat=false&width=1080&height=180&lines=Building+things+that+matter.;Turning+ideas+into+reality.;Always+learning%2C+always+building." alt="Typing SVG" /></a>
+</div>
+<div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center">
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
