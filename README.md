@@ -18,7 +18,7 @@ Here are some ideas to get you started:
         <img src="https://readme-typing-svg.demolab.com?font=Bagel+Fat+One&size=40&duration=1200&pause=200&color=F75160&background=1AFFAC&center=true&vCenter=true&multiline=true&repeat=false&width=1080&height=180&lines=Building+things+that+matter.;Turning+ideas+into+reality.;Always+learning%2C+always+building." alt="Typing SVG" />
     </a>
 </div>
-<br/>
+
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 About Me </h2>
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  
