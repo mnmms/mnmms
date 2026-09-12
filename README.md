@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <br/>
 <div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🌱 Currently </h2>
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">• FE와 AI·ML 기술을 접목할 수 있는 방향을 탐색하고 있습니다.</div>
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">• FE와 AI·ML 기술을 접목할 수 있는 서비스를 구상하고 있습니다.</div>
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">• 여러 서비스로 만들어보며 경험을 쌓고 있습니다.</div>
 </div>
 <br/>
@@ -58,9 +58,15 @@ Here are some ideas to get you started:
 </div>
 <br/>
 <div align="center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🚀 FEATURED PROJECTS </h2>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🚀 Featured Projects </h2>
 
 | 🎯 Nolda - 청년 놀거리 플랜 |
 | :--- |
 | <br/>청년 맞춤형 여가 추천 AI 서비스<br>`Python` `AI/ML` `FastAPI` `Supabase`<br><br/><sub>🚧 Currently building · Coming Soon!</sub> |
+</div>
+<br/>
+<div align= "center"> 
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Bagel+Fat+One&size=40&duration=1200&pause=200&color=F75160&background=1AFFAC&center=true&vCenter=true&multiline=true&repeat=false&width=1080&height=50&lines=+++++++++++++++++++++++++++;" alt="Typing SVG" />
+    </a>
 </div>
