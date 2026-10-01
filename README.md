@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <br/>
 <div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🌱 Currently </h2>
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">• FE와 AI·ML 기술을 접목할 수 있는 서비스를 구상하고 있습니다.</div>
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">• 기존 개발 경험 기반으로 AI 기술을 활용할 수 있는 서비스를 구상하고 있습니다.</div>
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">• 여러 서비스로 만들어보며 경험을 쌓고 있습니다.</div>
 </div>
 
@@ -64,9 +64,9 @@ Here are some ideas to get you started:
 <div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🚀 Featured Projects </h2>
 
-| 🎯 Nolda - 청년 놀거리 플랜 |
-| :--- |
-| <br/>청년 맞춤형 여가 추천 AI 서비스<br>`Python` `AI/ML` `FastAPI` `Supabase`<br><br/><sub>🚧 Currently building · Coming Soon!</sub> |
+| 청년 놀거리 플랜(Nolda) | 오늘의집 스케치 기반 검색 기능 |
+| :---: | :---: |
+| <br/>청년 맞춤형 여가 추천 AI 서비스<br>`AI/ML`<br><br/><sub>• 서비스 [바로가기](https://frontend-d8p225jyf-esomnmm-8631s-projects.vercel.app)</sub><br><sub>• 프로젝트 [바로가기](https://github.com/nolda-app/nolda)</sub> | <br/>오늘의집 스케치 검색 및 추천 서비스<br>`ML/DL`<br><br/><sub>🚧 Currently building · Coming Soon!</sub>
 </div>
 <br/>
 <div align= "center"> 
