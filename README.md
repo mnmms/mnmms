@@ -25,7 +25,7 @@ Here are some ideas to get you started:
         이소정 (Frontend / AI Engineer)
         <br/>
         <sub>
-            시각디자인 · 컴퓨터공학 전공
+            컴퓨터공학 · 시각디자인 전공
         </sub>
         <br/>
         -
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🌱 Currently </h2>
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">• 기존 개발 경험 기반으로 AI 기술을 활용할 수 있는 서비스를 구상하고 있습니다.</div>
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">• 여러 서비스로 만들어보며 경험을 쌓고 있습니다.</div>
+    <!-- <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">• 여러 서비스로 만들어보며 경험을 쌓고 있습니다.</div> -->
 </div>
 
 <br/>
