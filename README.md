@@ -64,9 +64,9 @@ Here are some ideas to get you started:
 <div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🚀 Featured Projects </h2>
 
-| 청년 놀거리 플랜(Nolda) | 오늘의집 스케치 기반 검색 기능 |
-| :---: | :---: |
-| <br/>청년 맞춤형 여가 추천 AI 서비스<br>`AI/ML`<br><br/><sub>• 서비스 [바로가기](https://frontend-d8p225jyf-esomnmm-8631s-projects.vercel.app)</sub><br><sub>• 프로젝트 [바로가기](https://github.com/nolda-app/nolda)</sub> | <br/>오늘의집 스케치 검색 및 추천 서비스<br>`ML/DL`<br><br/><sub>🚧 Currently building · Coming Soon!</sub>
+| 청년 놀거리 추천 플랜 | 오늘의집 스케치 기반 검색 기능 | AI 화상 모의면접 |
+| :---: | :---: | :---: |
+| <br/>청년 맞춤형 여가 추천 AI 서비스<br>`LLM/ML`<br><br/><sub>• 서비스 [바로가기](https://nolda-space.vercel.app)</sub><br><sub>• 프로젝트 [바로가기](https://github.com/nolda-app/nolda) [바로가기(제주)](https://github.com/nolda-app/nolda-jeju)</sub> | <br/>오늘의집 스케치 검색 및 추천 서비스<br>`ML/DL`<br><br/><sub>• 서비스 [바로가기]</sub><br><sub>• 프로젝트 [바로가기](https://github.com/mnmms/sketch-search)</sub> | <br/>AI 모의면접 서비스<br>`LLM/Mediapipe/STT/TTS`<br><br/><sub>🚧 Currently building · Coming Soon!</sub>
 </div>
 <br/>
 <div align= "center"> 
